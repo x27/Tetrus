@@ -12,7 +12,7 @@ OS: Windows XP or higher with installed .Net Framework 2.0
 
 ### Download 
 
-The .exe version for Windows [HERE](https://github.com/x27/Tetus/releases/latest)
+The .exe version for Windows [HERE](https://github.com/x27/Tetrus/releases/latest)
 
 ### Links
 
